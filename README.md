@@ -4,7 +4,7 @@ Slides, R code, and excel file for Day 1 of workshop
 
 Email f.lamrock@qub.ac.uk 
 
-- 13:00 - 13:15 | Welcome and Intros [](Day 1 - Session 1.pdf)
+- 13:00 - 13:15 | Welcome and Intros [](https://github.com/HealthEconomicsDataDive/Day-1-Material/blob/master/Day%201%20-%20Session%201.pdf)
 
 - 13:15 - 13:55 | Why use R for Health Economics Modelling? [
 
