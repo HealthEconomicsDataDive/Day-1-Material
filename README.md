@@ -4,9 +4,9 @@ Slides, R code, and excel file for Day 1 of workshop
 
 Email f.lamrock@qub.ac.uk 
 
-- 13:00 - 13:15 | Welcome and Intros
+- 13:00 - 13:15 | Welcome and Intros [Day 1 - Session 1.pdf]
 
-- 13:15 - 13:55 | Why use R for Health Economics Modelling?
+- 13:15 - 13:55 | Why use R for Health Economics Modelling? [
 
 - 13:45 - 14:30 | Introduction to Cost-Effectiveness Modelling in R
 
