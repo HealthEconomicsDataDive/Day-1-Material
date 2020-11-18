@@ -16,7 +16,7 @@ Email f.lamrock@qub.ac.uk
 
 - 15:30 - 16:00 | Discrete Time Cohort Markov Modelling in R ([slides](https://github.com/HealthEconomicsDataDive/Day-1-Material/blob/master/Day%201%20-%20Session%204.pdf))
 
-- 16:00 - 17:15 | On the shoulder of giants ([slides](https://github.com/HealthEconomicsDataDive/Day-1-Material/blob/master/heemod-slides.pdf), ([code](https://github.com/HealthEconomicsDataDive/Day-1-Material/blob/master/heemod-Markov.pdf)))
+- 16:00 - 17:15 | On the shoulder of giants ([slides](https://github.com/HealthEconomicsDataDive/Day-1-Material/blob/master/heemod-slides.pdf), [code](https://github.com/HealthEconomicsDataDive/Day-1-Material/blob/master/heemod-Markov.pdf))
 
 - 17:15 - 17:30 | Close of day 1
 
